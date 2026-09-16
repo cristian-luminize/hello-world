@@ -1,0 +1,13 @@
+date,department,vendor,category,amount_usd,approved_by
+2026-07-02,Finance,Staples,Office Supplies,184.37,M. Alvarez
+2026-07-09,Marketing,Canva,Software,119.99,J. Chen
+2026-07-15,Finance,Delta Air Lines,Travel,642.10,M. Alvarez
+2026-07-21,Sales,Salesforce,Software,1500.00,R. Patel
+2026-07-28,Operations,Uline,Shipping,327.45,T. Nguyen
+2026-08-04,Finance,Marriott,Travel,489.00,M. Alvarez
+2026-08-11,Marketing,Meta Ads,Advertising,2250.00,J. Chen
+2026-08-19,Sales,Uber,Travel,76.82,R. Patel
+2026-08-26,Operations,Grainger,Maintenance,913.64,T. Nguyen
+2026-09-03,Finance,Intuit,Software,85.00,M. Alvarez
+2026-09-10,Marketing,Vistaprint,Printing,208.15,J. Chen
+2026-09-14,Sales,Hilton,Travel,531.48,R. Patel
